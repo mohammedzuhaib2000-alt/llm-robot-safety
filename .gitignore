@@ -1,0 +1,11 @@
+.env
+build/
+logs/*.json
+__pycache__/
+*.pyc
+.venv/
+mujoco_menagerie/
+.DS_Store
+*.zip
+results/*.log
+mujoco_menagerie/
